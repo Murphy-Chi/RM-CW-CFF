@@ -1,0 +1,122 @@
+﻿define({ entries : {
+    "7487511": {
+        "abstract": "Medical and surgical robot systems are examples of safety-critical systems due to the potential hazards that can lead to severe injury or the loss of human life. Furthermore, robot safety is becoming increasingly important in other do- mains as robots begin to share their workspace with humans. At the same time, the complexity of robot hardware and software has been increasing to endow them with capabilities for safe human-robot collaboration and other demanding tasks. While component-based frameworks have been widely adopted in robotics to manage the increasing scale and complexity of these systems, it is still challenging for both academic researchers and industrial developers to develop robot systems with safety in a reusable and structured manner. To address these issues, we reformulate safety as a visible, reusable, and verifiable property, rather than an embedded, hard-to-reuse, and hard-to- test property that is tightly coupled with the system. Specifically, we present a state-based model and a safety-oriented software architecture that allow us to reuse the design of safety features across different systems and different applications without relying on a particular component model. To demonstrate and evaluate the proposed methods, we built SAFECASS, an open source software framework that enables reuse of experience and knowledge on safety, and applied it to two medical robot systems, one of which is presented in this paper.",
+        "author": "Jung, Min Yang and Kazanzides, Peter",
+        "booktitle": "2016 IEEE International Conference on Robotics and Automation (ICRA)",
+        "doi": "10.1109/ICRA.2016.7487511",
+        "keywords": "Safety,Computer architecture,Service robots,Software,Medical robotics,Robot sensing systems",
+        "number": "",
+        "pages": "3360-3366",
+        "title": "An architectural approach to safety of component-based robotic systems",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2016"
+    },
+    "MITKA20121888": {
+        "abstract": "Domestic robotics is a growing sector with the potential for a large number of commercial applications. Robotics technologies have been successfully applied in industrial production lines, yet, for them to be successful in a dynamic household environment the need for increased reliability, robustness and other special capabilities become paramount. We are not far from the time when people will live and interact with robots and, thus, safety becoming the fundamental issue to observe. Robot designers should produce safe products for humans no matter what failure, malfunction or mishandle may occur. Thus, respective safety procedures ought to be applied to domestic robots as well. The most critical challenge is to preserve safety of humans without forfeiting a single token of the efficiency required to perform any task. In this technical communication, the authors address the need for safety regulations in domestic robotics and, while they do not intend to replace any current robot safety standards or guidelines, the proposed work may serve as a supplement to the standards. Since specific safety standards for domestic robots are not available, we propose that their safety verification should be carried out on the base of well-applied standards that developed in other areas and discussed here. The communication in hand provides the ground upon which a standard on domestic robots can be built. Moreover, it proposes a systemic approach that explicitly relates the system and user requirements to a list of safety problems, in order to achieve an adequate level of safety in domestic robotics.",
+        "author": "Eleftheria Mitka and Antonios Gasteratos and Nikolaos Kyriakoulis and Spyridon G. Mouroutsos",
+        "doi": "https://doi.org/10.1016/j.ssci.2012.05.009",
+        "issn": "0925-7535",
+        "journal": "Safety Science",
+        "keywords": "Standardization, Domestic robots, Requirements, Systemic method",
+        "number": "9",
+        "pages": "1888-1897",
+        "title": "Safety certification requirements for domestic robots",
+        "type": "article",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0925753512001294",
+        "volume": "50",
+        "year": "2012"
+    },
+    "VICENTINI2020101921": {
+        "abstract": "Popular non-normative terms in robot safety, including \u201cco-existence\u201d, \u201ccollaboration\u201d, \u201ccooperation\u201d, \u201ccollaborative robot\u201d, \u201ccobot\u201d, are used inconsistently in technical literature and in practice. Comparison of terms and evidence of inconsistency are provided on the basis of recent works about safety of collaborative robotics. Frequency and energy of interaction are discussed as more appropriated classification figures for the purpose of risk assessment. Examples and recommendations about the classification of safety methods are discussed according to contemporary state-dependent, mixed modes safety strategies.",
+        "author": "Federico Vicentini",
+        "doi": "https://doi.org/10.1016/j.rcim.2019.101921",
+        "issn": "0736-5845",
+        "journal": "Robotics and Computer-Integrated Manufacturing",
+        "keywords": "Collaborative robotics safety, Safety definitions, Terminology, Safety normative requirements",
+        "pages": "101921",
+        "title": "Terminology in safety of collaborative robotics",
+        "type": "article",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0736584519300614",
+        "volume": "63",
+        "year": "2020"
+    },
+    "ZACHARAKI2020104667": {
+        "abstract": "In the era of industrialization and automation, safety is a critical factor that should be considered during the design and realization of each new system that targets operation in close collaboration with humans. Of such systems are considered personal and professional service robots which collaborate and interact with humans at diverse applications environments. In this collaboration, human safety is an important factor in the wider field of human-robot interaction (HRI) since it facilitates their harmonic coexistence. The paper at hand aims to systemize the recent literature by describing the required levels of safety during human-robot interaction, focusing on the core functions of the collaborative robots when performing specific processes. It is also oriented towards the existing methods for psychological safety during human-robot collaboration and its impact at the robot behaviour, while also discusses in depth the psychological parameters of robots incorporation in industrial and social environments. Based on the existing works on safety features that minimize the risk of HRI, a classification of the existing works into five major categories namely, Robot Perceptions for Safe HRI, Cognition-enabled robot control in HRI, Action Planning for safe navigation close to humans, Hardware safety features, and Societal and Psychological factors is also applied. Finally, the current study further discusses the existing risk assessment techniques as methods to offer additional safety in robotic systems presenting thus a holistic analysis of the safety in contemporary robots, and proposes a roadmap for safety compliance features during the development of a robotic system.",
+        "author": "Angeliki Zacharaki and Ioannis Kostavelis and Antonios Gasteratos and Ioannis Dokas",
+        "doi": "https://doi.org/10.1016/j.ssci.2020.104667",
+        "issn": "0925-7535",
+        "journal": "Safety Science",
+        "keywords": "Robot safety, Human-robot interaction, Safe collaboration, Safety standards, Safety techniques, Psychological safety issues",
+        "pages": "104667",
+        "title": "Safety bounds in human robot interaction: A survey",
+        "type": "article",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0925753520300643",
+        "volume": "127",
+        "year": "2020"
+    },
+    "begishev2021technological": {
+        "abstract": "Robotics is considered by modern researchers from various positions. The most common technical approach to the study of this concept, which examines the current state and achievements in the field of robotics, as well as the prospects for its development. Also, quite often in recent years, legal experts have begun to address problems related to the development of robotics, focusing on issues related to the legal personality of robots and artificial intelligence, as well as the responsibility of AI for causing harm. A separate direction in the field of robotics research is the analysis of this concept and the relations associated with it, from the standpoint of morality, ethics and technologies.",
+        "author": "Begishev, Ildar and Khisamova, Zarina and Vasyukov, Vitaly",
+        "booktitle": "E3S Web of Conferences",
+        "organization": "EDP Sciences",
+        "pages": "12028",
+        "title": "Technological, ethical, environmental and legal aspects of robotics",
+        "type": "inproceedings",
+        "volume": "244",
+        "year": "2021"
+    },
+    "bogue2017robots": {
+        "abstract": "Purpose \u2013 This paper aims to provide details of the safety considerations, technologies and standards associated with robots that interact with, or operate in proximity to, humans. Design/methodology/approach \u2013 Following an introduction, this paper first considers collaborative robots and discusses their safety features and the new technical specification ISO/TS 15066, together with certain allied safety standards. It then discusses ISO 13482 and a range of assistive, personal care and service robots which comply with this and highlights new standards that are under development. Mobile warehouse and delivery robots are then considered, together with the safety technologies used and the associated standards. Finally, brief concluding comments are drawn. Findings \u2013 The recent proliferation of robots that interact with humans or operate in proximity to them has led to the development of standards and specifications which seek to ensure safe operation. These allow robot manufacturers to design inherently safe products that will gain market acceptance and also help to inspire confidence among users. A number of new standards and specifications have been proposed or are being developed, and this trend is set to continue as new classes of robotic products emerge. Originality/value \u2013 All manner of robots are being developed which interact with humans, and this provides details of the associated safety considerations, technologies and standards.",
+        "author": "Bogue, Robert",
+        "journal": "Industrial Robot: An International Journal",
+        "keywords": "Robot, Standards, Safety, Specifications",
+        "number": "4",
+        "pages": "395--400",
+        "publisher": "Emerald Publishing Limited",
+        "title": "Robots that interact with humans: a review of safety technologies and standards",
+        "type": "article",
+        "volume": "44",
+        "year": "2017"
+    },
+    "malm2010safety": {
+        "abstract": "Finland is ranked rather high in international ro- bot density statistics. In Finland, robots are typically used in applications where they operate in close proximity to hu- mans. The research described in this paper, sourced from Finnish databases, identified 25 severe accidents which can be attributed to robots. The current accident data can provide an insight into the type of accidents associated with future human-robot interaction (HRI) applications. Accident statis- tics indicate that most of the severe robot-related accidents involved crushing a person against a rigid object. As crush- ing hazards currently dominate accident statistics, and with HRI applications becoming increasingly common, humans are expected to be exposed to more crushing hazards in the future. The close proximity of the robots means that there is very little time to escape from crushing hazard. The preven- tion of collisions between robots and humans is paramount to reducing the amount of accidents. Actions to diminish the effects of any subsequent collision are also important. The control after a collision, however, needs to be very quick in order to minimise the damage caused by an impact. Current practice demands that upon detection of a collision, active movements are typically not allowed without a human su- pervision. Moving a robot away to a safe position and re- leasing any pressure against a person may save lives, but would entail some adjustments or new interpretations of the current safety requirements.",
+        "author": "Malm, Timo and Viitaniemi, Juhani and Latokartano, Jyrki and Lind, Salla and Venho-Ahonen, Outi and Schabel, Jari",
+        "journal": "International Journal of Social Robotics",
+        "keywords": "Robot,Accident,Safety,Hazard,Crushing",
+        "pages": "221--227",
+        "publisher": "Springer",
+        "title": "Safety of interactive robotics\u2014learning from accidents",
+        "type": "article",
+        "volume": "2",
+        "year": "2010"
+    },
+    "tadele2014safety": {
+        "abstract": "different branches of technology are striving to come up with new advancements that will enhance civilization and ultimately improve the quality of life. In the robotics community, strides have been made to bring the use of personal robots in office and home environments on the horizon. Safety is one of the critical issues that must be guaranteed for the successful acceptance, deployment, and utilization of domestic robots. Unlike the barrier-based operational safety guarantee that is widely used in industrial robotics, safety in domestic robotics deals with a number of issues, such as intrinsic safety, collision avoidance, human detection, and advanced control techniques. In the last decade, a number of researchers have presented their works that highlighted the issue of safety in a specific part of the complete domestic robotics system. This article presents a general survey of various safety-related publications that focus on safety criteria and metrics, mechanical design and actuation, and controller design.",
+        "author": "Tadele, Tadele S and TJd, Vries and Stramigioli, Stefano",
+        "publisher": "related publications. Robotics and Automation Magazine, IEEE",
+        "title": "The safety of domestic robots: a survey of various safety",
+        "type": "misc",
+        "year": "2014"
+    },
+    "vasic2013safety": {
+        "abstract": "Safety is an important consideration in human- robot interactions (HRI). Robots can perform powerful move- ments that can cause hazards to humans surrounding them. To prevent accidents, it is important to identify sources of potential harm, to determine which of the persons in the robot\u2019s vicinity may be in greatest peril and to assess the type of injuries the robot may cause to this person. This survey starts with a review of the safety issues in industrial settings, where robots manipulate dangerous tools and move with extreme rapidity and force. We then move to covering issues related to the growing numbers of autonomous mobile robots that operate in crowded (human-inhabited) environments. We discuss the potential benefits of fully autonomous cars on safety on roads and for pedestrians. Lastly, we cover safety issues related to assistive robots.",
+        "author": "Vasic, Milos and Billard, Aude",
+        "booktitle": "2013 ieee international conference on robotics and automation",
+        "organization": "IEEE",
+        "pages": "197--204",
+        "title": "Safety issues in human-robot interactions",
+        "type": "inproceedings",
+        "year": "2013"
+    },
+    "yakymets2013model": {
+        "abstract": "Robotic systems (RSs) are often used for performing critical tasks with little or no human intervention. Such RSs must satisfy certain dependability requirements including reliability, availability, security and safety. In this paper, we focus on the safety aspect and propose a methodology and associated framework for safety assessment of RSs in the early phases of development. The methodology relies upon model-driven engineering approach and describes a preliminary safety assessment of safety-critical RSs using fault tree (FT) analysis (FTA). The framework supports a domain specific language for RSs called RobotML and includes facilities (i) to automatically generate or manually construct FTs and perform both qualitative and quantitative FTA, (ii) to make semantic connections with formal verification and FTA tools, (iii) to represent FTA results in the RobotML modeling environment. In the case study, we illustrate the proposed methodology and framework by considering a mobile robot developed in the scope of the Proteus project.",
+        "author": "Yakymets, Nataliya and Dhouib, Saadia and Jaber, Hadi and Lanusse, Agnes",
+        "booktitle": "2013 IEEE/RSJ International Conference on Intelligent Robots and Systems",
+        "organization": "IEEE",
+        "pages": "1137--1142",
+        "title": "Model-driven safety assessment of robotic systems",
+        "type": "inproceedings",
+        "year": "2013"
+    }
+}});
